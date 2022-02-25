@@ -1,0 +1,17 @@
+.container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #232020;
+}
+.form {
+  width: 450px;
+  height: 541px;
+  box-shadow: 5px 5px 10px 0px #000000;
+  border-color: #f5ae00;
+  border-width: 1px;
+}
